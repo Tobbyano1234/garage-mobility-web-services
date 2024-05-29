@@ -92,7 +92,7 @@ For all endpoints, appropriate error messages are returned with relevant status 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/tobbyano1234/simple-blog-api.git
+   git clone https://github.com/tobbyano1234/garage-mobility-web-services.git
    ```
 
 2. Navigate to the project directory:
